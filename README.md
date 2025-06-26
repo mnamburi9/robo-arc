@@ -21,7 +21,7 @@ Average testing throughput: 12-15 units/hour vs potential 60+ units/hour with au
 
 
 💡 The Solution
-PrecisionArm Platform Features:
+RoboArc Platform Features:
 🔧 Adaptive Testing Capabilities
 
 Stress testing for building materials and components
